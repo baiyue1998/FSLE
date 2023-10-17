@@ -9,4 +9,3 @@ dependencies:
   - netCDF4
   - xarray
   - scipy
-  - lagrangian
