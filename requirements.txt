@@ -32,5 +32,3 @@ scipy==1.9.3
     # via seaborn
 seaborn==0.10.1
     # via -r requirements.in
-lagrangian==2.2.0
-    # via -r requirements.in
